@@ -50,13 +50,13 @@ if (member.equalsIgnoreCase ("y")) {
             System.out.println("Harga ice tea = " + harga);
         } else if (pilihan_menu == 3) {
         harga = 15000;
-        System.out.println("Harga bundling" + harga);
+        System.out.println("Harga bundling = " + harga);
         } else {
         System.out.println( "Masukkan pilihan menu dengan benar");
         return; 
-        }
+        }else if (jenisPembayaran.equal){}
     
-        System.out.println("Total bayar" + harga);
+        System.out.println("Total bayar = " + harga);
         } else {
         System.out.println("Member tidak valid");
         }
