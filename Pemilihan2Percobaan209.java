@@ -54,7 +54,7 @@ if (member.equalsIgnoreCase ("y")) {
         } else {
         System.out.println( "Masukkan pilihan menu dengan benar");
         return; 
-        }else if (jenisPembayaran.equal){}
+        }
     
         System.out.println("Total bayar = " + harga);
         } else {
