@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class Pemilihan2Percobaan109 {
+public class ModifPemilihan2Percobaan109 {
 
     public static void main(String[] args) {
         Scanner Absen = new Scanner(System.in);
@@ -13,9 +12,9 @@ public class Pemilihan2Percobaan109 {
         if ((tahun % 4) == 0) {
             if ((tahun % 100) != 0)
             System.out.println("Tahun Kabisat"); 
+            else
+            System.out.println("Bukan Tahun Kabisat"); 
         } else
         System.out.println("Bukan Tahun Kabisat");
-
-        
     }
 }
