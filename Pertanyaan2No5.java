@@ -78,7 +78,7 @@ if (member.equalsIgnoreCase ("y")) {
 
         
     } else if (jenisPembayaran.equals("n")) {
-        System.out.println("Total bayar = " + total_bayar);t
+        System.out.println("Total bayar = " + total_bayar);
 
         
     }
