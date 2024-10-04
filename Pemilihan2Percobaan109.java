@@ -6,6 +6,7 @@ public class Pemilihan2Percobaan109 {
     public static void main(String[] args) {
         Scanner Absen = new Scanner(System.in);
         int tahun;
+        String p;
 
         System.out.print("Masukkan tahun: ");
         tahun = Absen.nextInt();
